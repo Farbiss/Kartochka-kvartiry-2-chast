@@ -262,7 +262,7 @@ body {
   transition: all 0.2s ease-in;
 }
 
-.toggle_groups:checked + .toggle__fakе {
+.toggle_groups:checked + .toggle__fake {
   background-color: #FFE074;
 }
 
@@ -270,7 +270,7 @@ body {
   font-weight: 700;
 }
 
-.toggle_groups:checked + .toggle__fakе::before {
+.toggle_groups:checked + .toggle__fake::before {
   left: 19px;
 }
 
